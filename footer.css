@@ -1,0 +1,12 @@
+.footer{
+    background-color: rgb(223, 165, 184);
+}
+.footer a{
+    text-decoration: none;
+    color: black;
+}
+.footer a:hover{
+    color: white;
+    
+    
+} 

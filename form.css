@@ -1,0 +1,17 @@
+
+body{
+    background-image:url(gift2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;   
+    background-color: rgb(241, 148, 138);
+}
+
+.container{
+    margin-top:10px;
+}
+#comp-form{
+    background-color: rgb(241, 148, 138);
+}
+.form-control{
+    background-color:rgba(0,0,0,0.5);
+}
